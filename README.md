@@ -1,6 +1,6 @@
 # About Me
 - 👋 My name is Kacy Phan, and I'm a passionate and enthusiastic developer with a keen eye for detail. I'm always eager to learn new things and to take on new challenges.
-- 👀 I’m interested in I'm particularly interested in software engineering because it allows me to combine my love for technology with my problem-solving skills. I enjoy working on complex projects that challenge me to think creatively and to come up with innovative solutions.
+- 👀 I’m particularly interested in software engineering because it allows me to combine my love for technology with my problem-solving skills. I enjoy working on complex projects that challenge me to think creatively and to come up with innovative solutions.
 - 🌱 I’m currently learning focusing on improving my skills in software design and algorithm. I'm excited to apply my knowledge to real-world projects.
 - 💼 I'm also actively seeking new job opportunities and would love to hear from you if you think I would be a good fit for your team.
 - 📫 Please feel free to reach out to me at via Linkedin or kacyphann@gmail.com.
