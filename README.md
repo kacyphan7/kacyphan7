@@ -5,7 +5,7 @@
 - 💼 I'm also actively seeking new job opportunities and would love to hear from you if you think I would be a good fit for your team.
 - 📫 Please feel free to reach out to me at via Linkedin or kacyphann@gmail.com.
 
-# Let's Connect and Collobrate! 🤝
+# Let's Connect and Collaborate! 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-kacyphan/)
 
 
