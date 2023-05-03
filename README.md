@@ -6,7 +6,7 @@
 - 📫 Please feel free to reach out to me at via Linkedin or kacyphann@gmail.com.
 
 # Let's Connect and Collaborate! 🤝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-kacyphan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacyphan/)
 
 
 # 💻 Tech Stack:
