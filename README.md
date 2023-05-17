@@ -6,8 +6,7 @@
 - 📫 Please feel free to reach out to me at via Linkedin or kacyphann@gmail.com.
 
 # [My Portfolio](https://kacyphan.netlify.app/) 
-[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]
-(https://medium.com/@kacyphann)
+[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kacyphann)
 
 # Let's Connect and Collaborate! 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacyphan/)
