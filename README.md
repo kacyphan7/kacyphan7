@@ -5,10 +5,11 @@
 - 💼 I'm also actively seeking new job opportunities and would love to hear from you if you think I would be a good fit for your team.
 - 📫 Please feel free to reach out to me at via Linkedin or kacyphann@gmail.com.
 
-# [My Portfolio](https://kacyphan.netlify.app/) 
-[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kacyphann)
+# My Portfolio
+[![Portfolio](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://kacyphan.netlify.app/)
 
 # Let's Connect and Collaborate! 🤝
+[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kacyphann)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacyphan/)
 
 # 💻 Tech Stack - Languages, Frameworks, & Libraries:
