@@ -11,7 +11,7 @@
 # Let's Connect and Collaborate! 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacyphan/)
 
-# 💻 Tech Stack - Language, Frameworks, & Library:
+# 💻 Tech Stack - Languages, Frameworks, & Libraries:
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
