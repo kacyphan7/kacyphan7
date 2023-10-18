@@ -2,7 +2,7 @@
 - 👋 My name is Kacy Phan. I'm always eager to learn new things and to take on new challenges.
 - 👀 I enjoy working on complex projects that challenge me to think creatively and analyticially to come up with innovative solutions.
 - 🌱 I'm excited to apply my knowledge to real-world projects.
-- 📫 Please feel free to reach out to me at kacyphann@gmail.com, to collborate, connect, or if you believe I will be a good fit for your team. 
+- 📫 Please feel free to reach out to me at kacyphann@gmail.com, to collaborate, connect, or if you believe I will be a good fit for your team. 
 
 # 💻 Tech Stack - Languages, Frameworks, & Libraries:
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white)
